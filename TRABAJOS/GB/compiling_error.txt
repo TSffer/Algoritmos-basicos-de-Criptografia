@@ -1,0 +1,2 @@
+/home/luis/Escritorio/TRABAJOS/CifradoGamal/GeneradorBBS.cpp:3:21: fatal error: funciones: No existe el archivo o el directorio
+compilation terminated.
